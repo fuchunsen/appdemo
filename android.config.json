@@ -1,6 +1,6 @@
 {
-  "AppName":"WeexApp",
+  "AppName":"立体宣教",
   "AppId":"com.weex.app",
-  "SplashText":"Hello\nWeex",
+  "SplashText":"AKSO HEALTH",
   "WeexBundle":"index.js"
 }

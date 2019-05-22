@@ -5928,7 +5928,6 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
         } else if (this.doctorList.length % 3 === 2) {
             this.doctorList.push(this.doctorList[0]);
         }
-        console.log(this.mediaList);
         this.doctorDisplay();
         getNowTime();
         function getNowTime() {
